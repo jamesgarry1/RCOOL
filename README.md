@@ -1,7 +1,6 @@
+<h1 align="center">RCOOL 1.4.4 [B]</h1>
 
 <h2 align="center">─────── ✧ ───────</h2>
-
-<h3 align="center">RCOOL 1.4.4 [B]</h3>
 
 <h4 align="center">https://discord.gg/YreqZ7aYmg</h4>
 
