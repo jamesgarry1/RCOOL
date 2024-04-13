@@ -1,5 +1,5 @@
 
-<h1 align="center">─────── ✧ ───────</h1>
+<h2 align="center">─────── ✧ ───────</h2>
 
 <h3 align="center">RCOOL 1.4.4 [B]</h3>
 
@@ -7,7 +7,7 @@
 
 <h5 align="center">https://dsc.gg/fastflags</h5>
 
-<h1 align="center">══════⊹⊱≼≽⊰⊹══════</h1>
+<h2 align="center">══════⊹⊱≼≽⊰⊹══════</h2>
 
 ```
 {
