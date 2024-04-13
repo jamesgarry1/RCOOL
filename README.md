@@ -1,7 +1,7 @@
 <h1 align="center">RCOOL 1.4.4 [B]</h1>
 
-<h2 align="center">maintained by django<h2>
-<h2 align="center">original by fv<h2>
+<h3 align="center">maintained by django<h2>
+<h4 align="center">original by fv<h2>
 
 <h3 align="center">https://discord.gg/YreqZ7aYmg</h3>
 
@@ -94,6 +94,5 @@
   "FFlagEnableAudioOutputDevice": "False"
 }
 ```
-
 vsvpp (fv) got termed again
 all from <a href="https://github.com/RobloxFastFlags/FastFlags-Collective">uff</a> and <a href="https://github.com/catb0x/roblox-potato-fflags>pff</a>
