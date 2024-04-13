@@ -9,7 +9,7 @@
 
 <h2 align="center">══════⊹⊱≼≽⊰⊹══════</h2>
 
-```
+```json
 {
   "FFlagHandleAltEnterFullscreenManually": "False",
   "FLogNetwork": "7",
