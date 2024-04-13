@@ -1,7 +1,7 @@
 <h1 align="center">RCOOL 1.4.4 [B]</h1>
 
 <h3 align="center">maintained by django<h3>
-<h4 align="center">original by fv<h4>
+<h3 align="center">original by fv<h3>
 
 <h3 align="center">https://discord.gg/YreqZ7aYmg</h3>
 
