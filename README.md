@@ -1,12 +1,8 @@
 <h1 align="center">RCOOL 1.4.4 [B]</h1>
 
-<h2 align="center">─────── ✧ ───────</h2>
-
 <h4 align="center">https://discord.gg/YreqZ7aYmg</h4>
 
 <h5 align="center">https://dsc.gg/fastflags</h5>
-
-<h2 align="center">══════⊹⊱≼≽⊰⊹══════</h2>
 
 ```json
 {
