@@ -1,9 +1,6 @@
 <h1 align="center">RCOOL 1.4.4 [B]</h1>
-
-<h2 align="center">maintained by django<h2>
-<h2 align="center">original by fv<h2>
+<h2 align="center">maintained by django<h2> <h2 align="center">original by fv<h2>
 <h3 align="center">https://discord.gg/YreqZ7aYmg</h3>
-
 <h4 align="center">https://dsc.gg/fastflags</h4>
 
 ```json
