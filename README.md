@@ -1,4 +1,4 @@
-<h1 align="center"r>─────── ✧ ───────</h1>
+<h1 align="center">─────── ✧ ───────</h1>
 
 <h3 align="center">RCOOL 1.4.4 [B]</h3>
 
