@@ -1,8 +1,8 @@
 <h1 align="center">RCOOL 1.4.4 [B]</h1>
 
-<h4 align="center">https://discord.gg/YreqZ7aYmg</h4>
+<h5 align="center">https://discord.gg/YreqZ7aYmg</h5>
 
-<h5 align="center">https://dsc.gg/fastflags</h5>
+<h6 align="center">https://dsc.gg/fastflags</h6>
 
 ```json
 {
